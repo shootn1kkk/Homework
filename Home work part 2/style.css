@@ -715,3 +715,7 @@ body {
     top: 4075px;
     bottom: 0.6%;
 }
+
+.subs_knopka:hover {
+    opacity: 0.6;
+}
